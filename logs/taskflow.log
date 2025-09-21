@@ -1,0 +1,21 @@
+INFO 2025-09-12 22:05:15,520 autoreload 20832 13100 Watching for file changes with StatReloader
+INFO 2025-09-12 22:13:36,558 autoreload 20832 13100 C:\Users\shree\OneDrive\Desktop\Taskflow pro\backend\api\users.py changed, reloading.
+INFO 2025-09-12 22:13:37,763 autoreload 3704 11928 Watching for file changes with StatReloader
+INFO 2025-09-12 22:14:52,812 autoreload 8864 4664 Watching for file changes with StatReloader
+INFO 2025-09-12 22:37:13,167 autoreload 408 9692 Watching for file changes with StatReloader
+INFO 2025-09-12 22:41:07,409 autoreload 3492 25880 Watching for file changes with StatReloader
+INFO 2025-09-12 22:44:05,577 autoreload 21280 13100 Watching for file changes with StatReloader
+INFO 2025-09-12 22:44:56,864 autoreload 21592 25328 Watching for file changes with StatReloader
+INFO 2025-09-13 20:12:16,298 autoreload 15472 26736 Watching for file changes with StatReloader
+INFO 2025-09-14 12:41:19,902 autoreload 25704 10100 Watching for file changes with StatReloader
+INFO 2025-09-14 12:49:28,160 autoreload 24960 23572 Watching for file changes with StatReloader
+INFO 2025-09-14 12:52:28,137 autoreload 12476 23604 Watching for file changes with StatReloader
+INFO 2025-09-14 12:52:41,257 autoreload 24476 7384 Watching for file changes with StatReloader
+INFO 2025-09-14 12:55:19,707 autoreload 12476 23604 C:\Users\shree\OneDrive\Desktop\Taskflow pro\backend\manage.py changed, reloading.
+INFO 2025-09-14 12:55:19,763 autoreload 24960 23572 C:\Users\shree\OneDrive\Desktop\Taskflow pro\backend\manage.py changed, reloading.
+INFO 2025-09-14 12:55:22,282 autoreload 24884 14816 Watching for file changes with StatReloader
+INFO 2025-09-14 12:55:22,646 autoreload 21856 21684 Watching for file changes with StatReloader
+INFO 2025-09-14 12:59:26,900 autoreload 21856 21684 C:\Users\shree\OneDrive\Desktop\Taskflow pro\backend\manage.py changed, reloading.
+INFO 2025-09-14 12:59:27,708 autoreload 24884 14816 C:\Users\shree\OneDrive\Desktop\Taskflow pro\backend\manage.py changed, reloading.
+INFO 2025-09-14 12:59:32,226 autoreload 21232 26500 Watching for file changes with StatReloader
+INFO 2025-09-14 12:59:33,191 autoreload 24504 2312 Watching for file changes with StatReloader
